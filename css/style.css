@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.lobster {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+
+li {
+    cursor: pointer;
+}
+
+li:hover {
+    color: gray;
+}
+
+.title {
+    cursor: pointer;
+    color: white;
+}
+
+.title:hover {
+    color: gray;
+}
+
+footer {
+    background-color: #222121;
+    color: white;
+}
